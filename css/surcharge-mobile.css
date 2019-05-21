@@ -140,7 +140,7 @@ a {
 }
 
 .article-title::before {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/background-bandeau.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/background-bandeau.jpg");
     content: "";
     display: block;
     width: 100%;
@@ -373,23 +373,23 @@ h5 {
 }
 
 .social-sharing .inside ul.sr-list li.sr-item a .icon-email {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/partage-mail.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/partage-mail.svg")
 }
 
 .social-sharing .inside ul.sr-list li.sr-item a .icon-facebook {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/partage-facebook.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/partage-facebook.svg")
 }
 
 .social-sharing .inside ul.sr-list li.sr-item a .icon-twitter {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/partage-twitter.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/partage-twitter.svg")
 }
 
 .social-sharing .inside ul.sr-list li.sr-item a .icon-linkedin {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/partage-in.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/partage-in.svg")
 }
 
 .social-sharing .inside ul.sr-list li.sr-item a .icon-google-plus {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/partage-google.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/partage-google.svg")
 }
 
 .social-sharing .inside ul.sr-list li.sr-item a.btn-large {
@@ -655,7 +655,7 @@ i.icon-menu {
 .chiffres-cles .item .item-pro:after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/chiffre-entree.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/chiffre-entree.svg");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 6.4rem;
@@ -676,7 +676,7 @@ i.icon-menu {
 .chiffres-cles .item .item-entreprise:after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/chiffre-entreprise.png");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/chiffre-entreprise.png");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 6.6rem;
@@ -696,7 +696,7 @@ i.icon-menu {
 .chiffres-cles .item .item-visiteur:after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/chiffre-visiteur.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/chiffre-visiteur.svg");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 7.9rem;
@@ -716,7 +716,7 @@ i.icon-menu {
 .chiffres-cles .item .item-continent:after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/chiffre-continent.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/chiffre-continent.svg");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 8rem;
@@ -1320,7 +1320,7 @@ i.icon-menu {
 .global-wrapper main.cxp-history .wrapper .zone ul.pagination li.pagin-next a::after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     width: .9rem;
     height: 1.1rem;
     right: 5px;
@@ -1389,7 +1389,7 @@ i.icon-menu {
 
 .what-profil .container-profil:nth-child(1) {
     background: #8C7971;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/background-exposant.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/background-exposant.jpg");
     background-size: cover
 }
 
@@ -1410,7 +1410,7 @@ i.icon-menu {
 .what-profil .container-profil:nth-child(1) a::after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-marron.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-marron.svg");
     width: .9rem;
     height: 1.1rem;
     bottom: 2.2rem;
@@ -1419,7 +1419,7 @@ i.icon-menu {
 
 .what-profil .container-profil:nth-child(2) {
     background: #64C2C8;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/background-visiteur.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/background-visiteur.jpg");
     background-size: cover
 }
 
@@ -1444,7 +1444,7 @@ i.icon-menu {
 .what-profil .profil-visiteur a::after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     width: .9rem;
     height: 1.1rem;
     bottom: 2.2rem;
@@ -1573,27 +1573,27 @@ iframe {
 
 @font-face {
     font-family: 'cxpm-Klavika-bold';
-    src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf")
+    src: url("../salon_du_fromage_git_mobile/fonts/klavika/klavika-bold.otf")
 }
 
 @font-face {
     font-family: 'cxpm-Klavika-light';
-    src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-light.otf")
+    src: url("../salon_du_fromage_git_mobile/fonts/klavika/klavika-light.otf")
 }
 
 @font-face {
     font-family: 'cxpm-Gudea-bold';
-    src: url("../salon_du_fromage_2020_preprod_mobile/fonts/gudea/Gudea-Bold-webfont.woff")
+    src: url("../salon_du_fromage_git_mobile/fonts/gudea/Gudea-Bold-webfont.woff")
 }
 
 @font-face {
     font-family: 'cxpm-Gudea-regular';
-    src: url("../salon_du_fromage_2020_preprod_mobile/fonts/gudea/Gudea-Regular-webfont.woff")
+    src: url("../salon_du_fromage_git_mobile/fonts/gudea/Gudea-Regular-webfont.woff")
 }
 
 @font-face {
     font-family: 'icon';
-    src: url("../salon_du_fromage_2020_preprod_mobile/fonts/comexposium-iconfront/fonts/comexposium-iconfront.ttf")
+    src: url("../salon_du_fromage_git_mobile/fonts/comexposium-iconfront/fonts/comexposium-iconfront.ttf")
 }
 
 .v-align {
@@ -1926,7 +1926,7 @@ article.gla-item {
 
 .mod-catal .esf-tree .esf-has-sub-items>.esf-choice-container .esf-next-lvl::after {
     content: '';
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     width: .9rem;
     height: 1.1rem;
     background-repeat: no-repeat
@@ -2015,7 +2015,7 @@ ul {
 
 .temoignages-exposants.list-articles,
 .temoignages-visiteurs.list-articles {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg") !important;
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg") !important;
     background-repeat: repeat;
     margin: 0;
     padding: 3.5rem 0 0.5rem 0 !important;
@@ -2611,7 +2611,7 @@ header.site-banner .inside .block form button i {
 
 header.site-banner .inside .block form button i::before {
     content: "";
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/search.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/search.svg");
     width: 1.6rem;
     height: 1.6rem;
     position: absolute;
@@ -2659,7 +2659,7 @@ header.site-banner .inside .block .ql-list .linkid726170 .btn-primary:hover {
 header.site-banner .inside .block .ql-list .linkid726170 .btn-primary::after {
     content: "";
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/stand.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/stand.svg");
     width: 3.2rem;
     height: 2.9rem;
     right: 1.5rem;
@@ -2771,7 +2771,7 @@ header.site-banner .inside .block.quicklinks:first-child ul.ql-list .linkid72617
 
 header.site-banner .inside .block.quicklinks:first-child ul.ql-list .linkid726174 a i::before {
     content: '';
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/insta.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/insta.svg");
     width: 1.6rem;
     height: 1.6rem;
     position: absolute;
@@ -2876,7 +2876,7 @@ header.site-banner .inside #cxpmClientAccountWidget .not-logged .widget-text::be
     content: "";
     display: block;
     position: relative;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/account.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/account.svg");
     width: 1.3rem;
     height: 1.4rem;
     bottom: 0.9rem;
@@ -2913,7 +2913,7 @@ header.site-banner .inside .widget-my-selection::before {
     content: "";
     position: relative;
     display: block;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/bag.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/bag.svg");
     width: 1.3rem;
     height: 1.7rem;
     bottom: auto;
@@ -3030,7 +3030,7 @@ header.site-banner .inside .header-logo .header-logo-txt a.btn::after {
 }
 
 header.site-banner .inside .header-logo .header-logo-txt a.btn.badge::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/badge.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/badge.svg")
 }
 
 header.site-banner .inside .header-logo .header-logo-txt a.btn.exposant {
@@ -3041,7 +3041,7 @@ header.site-banner .inside .header-logo .header-logo-txt a.btn.exposant {
 
 header.site-banner .inside .header-logo .header-logo-txt a.btn.exposant::after {
     height: 1.9rem;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/stand.svg")
+    background-image: url("../salon_du_fromage_git_mobile/pictos/stand.svg")
 }
 
 header.site-banner .inside .sb-menu-trigger {
@@ -3173,7 +3173,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 li.mn-item-lvl-1#wi
 header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 li.mn-item-lvl-1.mn-item-has-submenu .mn-link::before {
     content: "";
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     background-repeat: no-repeat;
     width: 9px;
     height: 12px;
@@ -3264,7 +3264,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.mn-item-lvl-2 a.mn-link::before {
     content: "";
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     background-repeat: no-repeat;
     width: 9px;
     height: 12px;
@@ -3325,7 +3325,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
     content: "";
     position: relative;
     display: block;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/logo.png");
+    background-image: url("../salon_du_fromage_git_mobile/img/logo.png");
     background-repeat: no-repeat;
     width: 6.9rem;
     height: 3.8rem;
@@ -3367,7 +3367,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 .header-logo .header-logo-txt a.btn::after {
     content: "";
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_desktop/pictos/badge.svg");
+    background-image: url("../salon_du_fromage_git_desktop/pictos/badge.svg");
     width: 3.2rem;
     height: 2.3rem;
     right: 1.5rem;
@@ -3385,7 +3385,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 }
 
 .site-footer .prefooter .prefooter-wrapper {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg");
     background-repeat: repeat;
     margin: 0 auto;
     width: 100%;
@@ -3470,7 +3470,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc a.bouton::after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-white.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-white.svg");
     width: .8rem;
     height: 1rem;
     right: 1.8rem;
@@ -3491,7 +3491,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:first-child h3::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/picto-footer-questions.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/picto-footer-questions.svg");
     width: 2.8rem;
     height: 2.8rem;
     top: .3rem
@@ -3504,7 +3504,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(2) h3::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/picto-footer-infos.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/picto-footer-infos.svg");
     width: 3.2rem;
     height: 2.3rem;
     top: .6rem
@@ -3517,7 +3517,7 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) h3::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/picto-footer-reseaux.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/picto-footer-reseaux.svg");
     width: 3.2rem;
     height: 3.2rem
 }
@@ -3571,37 +3571,37 @@ header.site-banner .inside nav .mn-menu-line ul.mn-menu-lvl1 ul.mn-menu-lvl2 li.
 }
 
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) ul li:nth-child(1) a::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/facebook.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/facebook.svg");
     width: .9rem;
     height: 1.5rem
 }
 
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) ul li:nth-child(2) a::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/twitter.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/twitter.svg");
     width: 1.6rem;
     height: 1.3rem
 }
 
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) ul li:nth-child(3) a::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/insta.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/insta.svg");
     width: 1.6rem;
     height: 1.6rem
 }
 
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) ul li:nth-child(4) a::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/youtube.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/youtube.svg");
     width: 2rem;
     height: 1.4rem
 }
 
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) ul li:nth-child(5) a::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/in.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/in.svg");
     width: 1.4rem;
     height: 1.3rem
 }
 
 .site-footer .prefooter .prefooter-wrapper .prefooter-bloc:nth-child(3) ul li:nth-child(6) a::after {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/snap.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/snap.svg");
     width: 1.4rem;
     height: 1.3rem
 }
@@ -3725,7 +3725,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
     height: 50%;
     bottom: 0;
     left: 0;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg");
     background-repeat: repeat
 }
 
@@ -3769,7 +3769,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper .home-mosaic .txt-mosaic .mosaic-edito {
     width: 90%;
     margin: 2rem 2rem -2.5rem 2rem;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg");
     background-repeat: repeat;
     padding: 4.5rem 2.5rem 4.5rem 2.5rem
 }
@@ -3838,7 +3838,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper .home-mosaic .txt-mosaic a::after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-white.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-white.svg");
     width: .8rem;
     height: 1rem;
     right: 2rem;
@@ -3860,7 +3860,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 }
 
 .front .global-wrapper .home-mosaic .visuel-mosaic .mosaic-1>div:nth-child(1) {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/mosaic/mosaic-1.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/mosaic/mosaic-1.jpg");
     background-repeat: no-repeat;
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
@@ -3869,7 +3869,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 }
 
 .front .global-wrapper .home-mosaic .visuel-mosaic .mosaic-1>div:nth-child(2) {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/mosaic/mosaic-2.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/mosaic/mosaic-2.jpg");
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
     background-repeat: no-repeat;
@@ -3888,7 +3888,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 
 .front .global-wrapper .home-mosaic .visuel-mosaic .mosaic-1>div:nth-child(2) .mosaic-txt {
     height: 50%;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/mosaic/mosaic-6.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/mosaic/mosaic-6.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: .9rem
@@ -3905,19 +3905,19 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 }
 
 .front .global-wrapper .home-mosaic .visuel-mosaic .mosaic-2>div:nth-child(1) {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/mosaic/mosaic-3.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/mosaic/mosaic-3.jpg");
     background-size: cover;
     margin-top: 1rem
 }
 
 .front .global-wrapper .home-mosaic .visuel-mosaic .mosaic-2>div:nth-child(2) {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/mosaic/mosaic-4.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/mosaic/mosaic-4.jpg");
     background-size: cover;
     margin: 1rem 1rem 0 1rem
 }
 
 .front .global-wrapper .home-mosaic .visuel-mosaic .mosaic-2>div:nth-child(3) {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/mosaic/mosaic-5.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/mosaic/mosaic-5.jpg");
     background-size: cover;
     margin-top: 1rem
 }
@@ -3985,17 +3985,17 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 }
 
 .front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid727008 a::before {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/badge-marron.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/badge-marron.svg");
     width: 5.1rem
 }
 
 .front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid727009 a::before {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/reception-marron.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/reception-marron.svg");
     width: 3.5rem
 }
 
 .front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid727010 a::before {
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/liste-marron.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/liste-marron.svg");
     width: 4.3rem
 }
 
@@ -4017,7 +4017,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 
 .front .global-wrapper #zone2 .list-articles {
     position: relative;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg");
     background-repeat: repeat
 }
 
@@ -4055,7 +4055,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper #zone2 .list-articles .inside a.link-view-all::after {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-white.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-white.svg");
     width: .8rem;
     height: 1rem;
     right: 2rem;
@@ -4076,7 +4076,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
     -webkit-transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     -o-transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-white.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-white.svg");
     width: .8rem;
     height: 1rem;
     bottom: .2rem;
@@ -4210,7 +4210,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper #zone2 .list-articles .inside .cxp-pagination .list-grids-with-pagin .grid-la-list article.gla-item .gla-item-content p.gla-item-btn span.gla-btn-read-more::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     width: .9rem;
     height: 1.1rem;
     right: -1.7rem;
@@ -4239,7 +4239,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper #zone2 .edito-img-droite,
 .front .global-wrapper #zone2 .edito-img-gauche {
     background: transparent;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg");
     background-repeat: repeat;
     min-height: 70rem;
     padding: 3rem 2rem 2rem 2rem
@@ -4352,7 +4352,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
     content: '';
     position: absolute;
     background-repeat: no-repeat;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-white.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-white.svg");
     width: .9rem;
     height: 1.1rem;
     bottom: 1.8rem;
@@ -4364,7 +4364,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 
 .front .global-wrapper #zone2 .edito-img-gauche {
     background: transparent;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/texture.jpg");
+    background-image: url("../salon_du_fromage_git_mobile/img/texture.jpg");
     background-repeat: repeat;
     min-height: 70rem;
     padding: 0
@@ -4444,7 +4444,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
     content: '';
     position: absolute;
     background-repeat: no-repeat;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-white.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-white.svg");
     width: .9rem;
     height: 1.1rem;
     bottom: 1.8rem;
@@ -4685,7 +4685,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper #zone2 .programme-anim .inside .cxp-pagination .la-list article.la-item .la-item-content p.la-item-btn a::after {
     content: "";
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     width: .9rem;
     height: 1.1rem;
     right: -1.5rem;
@@ -4805,7 +4805,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn button.slider-btn-prev::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-marron.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-marron.svg");
     width: .9rem;
     height: 1.1rem;
     -webkit-transform: rotate(180deg);
@@ -4826,7 +4826,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 .front .global-wrapper #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn button.slider-btn-next::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-marron.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-marron.svg");
     width: .9rem;
     height: 1.1rem
 }
@@ -5446,7 +5446,7 @@ body.article h1 {
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td a.externe::before {
     content: '';
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/img/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/img/pictos/arrow-blue.svg");
     height: 1.2rem;
     width: 1.2rem;
     background-repeat: no-repeat;
@@ -5496,7 +5496,7 @@ body.article h1 {
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p:nth-child(10)::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     height: 12px;
     width: 12px;
     background-repeat: no-repeat;
@@ -5531,7 +5531,7 @@ body.article h1 {
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p.txtleft::before {
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     height: 12px;
     width: 12px;
     background-repeat: no-repeat;
@@ -5574,7 +5574,7 @@ body.article h1 {
     background: white;
     content: '';
     position: absolute;
-    background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_mobile/pictos/arrow-blue.svg");
     height: 12px;
     width: 12px;
     background-repeat: no-repeat;
@@ -6342,7 +6342,7 @@ body.article h1 {
 }
 
 .search .search-result .box-light {
-    background-image: url(../salon_du_fromage_2020_preprod_desktop/img/background-bandeau.jpg);
+    background-image: url(../salon_du_fromage_git_desktop/img/background-bandeau.jpg);
     background-size: cover
 }
 
@@ -6384,7 +6384,7 @@ body.article h1 {
 }
 
 div.sitemap::before {
-    background-image: url("../salon_du_fromage_2020_preprod_desktop/img/background-bandeau.jpg");
+    background-image: url("../salon_du_fromage_git_desktop/img/background-bandeau.jpg");
     content: "";
     display: block;
     width: 100%;
@@ -6441,7 +6441,7 @@ div.sitemap .sm-list .sm-item-link:hover {
 }
 
 .content-list-bullet li::before {
-    background-image: url("../salon_du_fromage_2020_preprod_desktop/pictos/arrow-blue.svg");
+    background-image: url("../salon_du_fromage_git_desktop/pictos/arrow-blue.svg");
     width: 0.9rem;
     height: 1.1rem;
     background-color: transparent;

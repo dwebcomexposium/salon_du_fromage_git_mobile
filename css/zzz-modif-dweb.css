@@ -2,7 +2,7 @@ html:lang(en) .header-logo .header-logo-txt .brand::before {
     content: "";
     position: relative;
     display: block;
-    background-image: url(../salon_du_fromage_2020_preprod_mobile/img/sfpl-logo-en-small.png);
+    background-image: url(../salon_du_fromage_git_mobile/img/sfpl-logo-en-small.png);
     background-repeat: no-repeat;
     width: 6.9rem;
     height: 3.8rem;
