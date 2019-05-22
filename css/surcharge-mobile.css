@@ -2024,7 +2024,8 @@ ul {
 	margin: 0 !important;
 }
 
-.linkid744275 {
+.linkid744275,
+.linkid744274 {
 	display: none !important;
 }
 
@@ -4020,17 +4021,17 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 	display: none;
 }
 
-.front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid727008 a::before {
+.front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid744278 a::before {
 	background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/badge-marron.svg");
 	width: 5.1rem;
 }
 
-.front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid727009 a::before {
+.front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid744279 a::before {
 	background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/reception-marron.svg");
 	width: 3.5rem;
 }
 
-.front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid727010 a::before {
+.front .global-wrapper #zone1.zone .quicklinks ul.ql-list .linkid744280 a::before {
 	background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/liste-marron.svg");
 	width: 4.3rem;
 }
