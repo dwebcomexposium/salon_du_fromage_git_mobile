@@ -13,6 +13,7 @@
         $(".programme-anim .main-title-with-link .link-view-all").insertAfter(".programme-anim .cxp-pagination");
       },
 
+
       showNewsletterForm : function() {
         var $win             = $(window);
         var $doc             = $(document);
@@ -64,11 +65,17 @@
         }).on('load scroll', function(){
           var winST = $win.scrollTop();
       
+          fixHeader(winST);
+          animateElement(winST);
         });
       }
-
   }
   sfplJS.init();
+
+
+  $('header.site-banner .inside .sb-menu-trigger').on('click', function(){
+    $('html').css('overflow', 'hidden');
+  });
 
 })(jQuery);
 
