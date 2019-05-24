@@ -1618,10 +1618,15 @@ a.externe {
 
 .content270573 .bn-list {
 	margin-top: 11rem !important;
+	padding-top: 3rem;
 }
 
 .content270573 .inside:nth-child(1) {
 	padding: 0 !important;
+}
+
+.overflowHidden {
+	overflow: hidden;
 }
 
 @font-face {
