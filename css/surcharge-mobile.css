@@ -37,7 +37,7 @@ a {
 }
 
 .site-wrapper p {
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .site-wrapper .layout-2-col .zone .article-wrapper .article-intro {
@@ -273,7 +273,7 @@ a {
 
 .article-navigation .inside ul.an-list li.an-item-previous a .an-item-content span.an-item-publication,
 .article-navigation .inside ul.an-list li.an-item-next a .an-item-content span.an-item-publication {
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .article-navigation .inside ul.an-list .an-item-next a img {
@@ -482,7 +482,7 @@ p,
 li {
 	font-size: 1.8rem;
 	line-height: 2.9rem;
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 h2.gla-item-title {
@@ -1588,10 +1588,32 @@ iframe {
 
 .partner-list .inside .pl-main-content .pl-item-group .pl-item {
 	padding: 1em 4rem !important;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
 }
 
-.partner-list .inside .pl-main-content .pl-item-group .pl-item .pl-item-read-more a {
+.partner-list .inside .pl-main-content .pl-item-group .pl-item .pl-item-content .pl-item-title {
+	line-height: 2.3rem;
+}
+
+.partner-list .inside .pl-main-content .pl-item-group .pl-item .pl-item-read-more a.link-read-more {
 	color: #64C2C8 !important;
+}
+
+a.link-read-more {
+	color: #64C2C8;
+}
+
+a.externe {
+	color: #8C7971;
 }
 
 @font-face {
@@ -2168,7 +2190,7 @@ ul {
 .temoignages-exposants.list-articles .slider-content .slider-item .la-item-content .la-item-title,
 .temoignages-visiteurs.list-articles .slider-content .slider-item .la-item-content .la-item-title {
 	font-size: 2.4rem;
-	color: #A2A2A2;
+	color: #8C7971;
 	font-family: "cxpm-Gudea-regular", Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	text-transform: none;
@@ -4239,7 +4261,7 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 
 .front .global-wrapper #zone2 .list-articles .inside .cxp-pagination .list-grids-with-pagin .grid-la-list article.gla-item .gla-item-content span.gla-item-desc {
 	font-family: "cxpm-Gudea-regular", Helvetica, Arial, sans-serif !important;
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.6rem;
 	text-align: left;
 	padding-top: 1.5rem;
@@ -5094,19 +5116,19 @@ body.article h1 {
 }
 
 .article-wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-email {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.4rem;
 }
 
 .article-wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-email a {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.4rem;
 	line-height: 1.8rem;
 	display: block;
 }
 
 .article-wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-phone {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.4rem;
 }
 
@@ -5169,17 +5191,17 @@ body.article h1 {
 }
 
 .article-wrapper .cl-content .cl-item .cl-item-content .cl-item-email {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.4rem;
 }
 
 .article-wrapper .cl-content .cl-item .cl-item-content .cl-item-email a {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.4rem;
 }
 
 .article-wrapper .cl-content .cl-item .cl-item-content .cl-item-phone {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.4rem;
 }
 
@@ -5386,7 +5408,7 @@ body.article h1 {
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-intro p {
 	margin: 0;
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content {
@@ -5568,7 +5590,7 @@ body.article h1 {
 }
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td p {
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p:nth-child(8),
@@ -5576,7 +5598,7 @@ body.article h1 {
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p:nth-child(10) {
 	position: relative;
 	left: 2rem;
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p:nth-child(8)::before,
@@ -5613,7 +5635,7 @@ body.article h1 {
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p.txtleft {
 	position: relative;
 	left: 2rem;
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725839 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p.txtleft::before {
@@ -5653,7 +5675,7 @@ body.article h1 {
 }
 
 .content725838 .site-wrapper .layout-2-col .zone .article-wrapper .article-content ul li {
-	color: #A2A2A2;
+	color: #8C7971;
 	position: relative;
 	left: 2rem;
 }
@@ -5722,7 +5744,7 @@ body.article h1 {
 }
 
 .content725834 .site-wrapper .layout-2-col .zone .block .inside .cxp-pagination .list-grids-with-pagin .grid-la-list article.gla-item a .gla-item-content {
-	color: #A2A2A2;
+	color: #8C7971;
 	background: #FFFFFF;
 	-webkit-box-shadow: 0 15px 35px -25px rgba(37, 37, 37, 0.73);
 	        box-shadow: 0 15px 35px -25px rgba(37, 37, 37, 0.73);
@@ -5861,7 +5883,7 @@ body.article h1 {
 }
 
 .content725845 .site-wrapper .layout-2-col .zone .article-wrapper .article-content ul li {
-	color: #A2A2A2;
+	color: #8C7971;
 	font-size: 1.8rem;
 	line-height: 2.9rem;
 }
@@ -5893,7 +5915,7 @@ body.article h1 {
 }
 
 .content725846 .site-wrapper .layout-2-col .zone .article-wrapper .article-content {
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725846 .site-wrapper .layout-2-col .zone .article-wrapper .article-content ul {
@@ -5927,13 +5949,13 @@ body.article h1 {
 .content725849 .site-wrapper .layout-2-col .zone .article-wrapper .article-content ul li {
 	font-size: 1.8rem;
 	line-height: 2.9rem;
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725849 .site-wrapper .layout-2-col .zone .article-wrapper .article-content p {
 	font-size: 1.8rem;
 	line-height: 2.9rem;
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 .content725849 .site-wrapper .layout-2-col .zone .article-wrapper h3 {
@@ -5941,7 +5963,7 @@ body.article h1 {
 }
 
 .content725849 .site-wrapper .layout-2-col .zone .article-wrapper h6 u {
-	color: #A2A2A2;
+	color: #8C7971;
 }
 
 
