@@ -3843,6 +3843,18 @@ html[lang="fr"] body:not(.front) #zone1 .main-navigation .mn-menu-line .mn-menu 
 	margin-bottom: 1.5rem;
 }
 
+@media screen and (max-width: 480px) {
+	.front .global-wrapper .home-mosaic .txt-mosaic h1 {
+		padding: 1.5rem .5rem;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.front .global-wrapper .home-mosaic .txt-mosaic h1 {
+		padding: 1.5rem 2rem;
+	}
+}
+
 .front .global-wrapper .home-mosaic .txt-mosaic h1 span {
 	font-family: "cxpm-Klavika-light", Helvetica, Arial, sans-serif;
 	font-weight: 100;
@@ -5718,13 +5730,13 @@ body.article h1 {
 	width: 7rem;
 }
 
-.content725842 #main .site-wrapper.wrapper {
+.content726180 #main .site-wrapper.wrapper {
 	background: none;
 	-webkit-box-shadow: none;
 	        box-shadow: none;
 }
 
-.content725842 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody {
+.content726180 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -5737,7 +5749,7 @@ body.article h1 {
 	        align-items: center;
 }
 
-.content725842 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr {
+.content726180 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -5749,7 +5761,7 @@ body.article h1 {
 	padding: 3rem;
 }
 
-.content725842 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td {
+.content726180 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td {
 	border: 0;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -5759,12 +5771,12 @@ body.article h1 {
 	        justify-content: center;
 }
 
-.content725842 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td:nth-child(1) figure img {
+.content726180 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td:nth-child(1) figure img {
 	width: 22rem;
 	height: auto;
 }
 
-.content725842 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td:nth-child(2) p {
+.content726180 #main .site-wrapper.wrapper .layout-2-col .zone .article-wrapper .article-content table tbody tr td:nth-child(2) p {
 	font-size: 1.6rem;
 	padding: 2rem;
 }
