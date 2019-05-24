@@ -16,8 +16,10 @@
 
 
       handleNavMobile : function() {
-        $('.site-banner .inside .sb-menu-trigger').touchstart(function(){
-          $('html, body').toggleClass('overflowHidden');
+        var btnMenu = '.site-banner .inside .sb-menu-trigger';
+        var htmlBody ='html, body';
+        $(btnMenu).on('click touchemove', function(){
+          $(htmlBody).toggleClass('overflowHidden');
         });
       },
 
