@@ -17,7 +17,7 @@
       handleNavMobile : function() {
         var btnMenu = '.site-banner .inside .sb-menu-trigger';
         var htmlBody ='html, body';
-        $(btnMenu).on('click touchmove', function(){
+        $(btnMenu).on('touchstart', btnMenu, function(){
           $(htmlBody).toggleClass('overflowHidden');
         });
       },
