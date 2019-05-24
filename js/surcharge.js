@@ -14,7 +14,6 @@
         $(".programme-anim .main-title-with-link .link-view-all").insertAfter(".programme-anim .cxp-pagination");
       },
 
-
       handleNavMobile : function() {
         var btnMenu = '.site-banner .inside .sb-menu-trigger';
         var htmlBody ='html, body';
