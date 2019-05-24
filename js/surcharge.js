@@ -17,7 +17,7 @@
 
       handleNavMobile : function() {
         $('.site-banner .inside .sb-menu-trigger').on('click', function(){
-          $('html').toggleClass('overflowHidden');
+          $('html, body').toggleClass('overflowHidden');
         });
       },
 
