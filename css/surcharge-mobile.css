@@ -1616,6 +1616,14 @@ a.externe {
 	color: #8C7971;
 }
 
+.content270573 .bn-list {
+	margin-top: 11rem !important;
+}
+
+.content270573 .inside:nth-child(1) {
+	padding: 0 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
