@@ -16,7 +16,7 @@
 
 
       handleNavMobile : function() {
-        $('.site-banner .inside .sb-menu-trigger').on('click touchstart', function(){
+        $('.site-banner .inside .sb-menu-trigger').touchstart(function(){
           $('html, body').toggleClass('overflowHidden');
         });
       },
