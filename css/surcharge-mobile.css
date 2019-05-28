@@ -1633,12 +1633,22 @@ a.externe {
 	margin-top: 10rem;
 }
 
+.catal-results-index-alpha span:first-child {
+	border-bottom: 4px solid #64C2C8 !important;
+}
+
 .catal-results-index-alpha li .current {
 	background: #8C7971 !important;
+	border: none !important;
 }
 
 .catal-results-index-alpha li a {
 	background: #64C2C8 !important;
+	border: none !important;
+}
+
+.catal-results-index-wrapper button i {
+	color: #8C7971 !important;
 }
 
 @font-face {
