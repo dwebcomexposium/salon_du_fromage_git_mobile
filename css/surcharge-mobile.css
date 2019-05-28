@@ -1706,6 +1706,10 @@ header .inside {
 	margin-bottom: 0 !important;
 }
 
+.esf-as-title.modalopen {
+	background: #64C2C8 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
@@ -2916,11 +2920,11 @@ header.site-banner .inside .block.quicklinks:first-child ul.ql-list li.linkid726
 	}
 }
 
-header.site-banner .inside .block.quicklinks:first-child ul.ql-list .linkid726174 a i {
+header.site-banner .inside .block.quicklinks:first-child ul.ql-list .linkid744273 a i {
 	position: relative;
 }
 
-header.site-banner .inside .block.quicklinks:first-child ul.ql-list .linkid726174 a i::before {
+header.site-banner .inside .block.quicklinks:first-child ul.ql-list .linkid744273 a i::before {
 	content: '';
 	background-image: url("../salon_du_fromage_2020_preprod_mobile/pictos/insta.svg");
 	width: 1.6rem;
