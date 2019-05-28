@@ -1634,11 +1634,11 @@ a.externe {
 }
 
 .catal-results-index-alpha li .current {
-	background: #8C7971;
+	background: #8C7971 !important;
 }
 
 .catal-results-index-alpha li a {
-	background: #64C2C8;
+	background: #64C2C8 !important;
 }
 
 @font-face {
