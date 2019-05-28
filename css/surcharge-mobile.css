@@ -1658,6 +1658,43 @@ a.externe {
 	color: #8C7971 !important;
 }
 
+.pagination.mod-catal li a {
+	color: #8C7971 !important;
+}
+
+.pagination.mod-catal li a i {
+	color: #8C7971 !important;
+}
+
+.catal-ex-details.mod-catal.js-history-item .catal-ed-group .catal-ed-group-title h2 {
+	color: #64C2C8 !important;
+}
+
+.catal-ex-details.mod-catal.js-history-item .catal-ed-group .catal-ed-group-title button i {
+	color: #64C2C8 !important;
+}
+
+.catal-ed-url a {
+	color: #8C7971 !important;
+}
+
+.catal-nav-ex-more-link {
+	color: #8C7971 !important;
+}
+
+.mobile_next_exhibitor i,
+.mobile_previous_exhibitor i {
+	color: #8C7971 !important;
+}
+
+.icon-catal-localisation {
+	color: #8C7971 !important;
+}
+
+header .inside {
+	padding: 0 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
