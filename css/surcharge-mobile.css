@@ -1526,7 +1526,7 @@ i.icon-menu {
 h1 {
 	font-size: 3.4rem;
 	line-height: 3.8rem;
-	color: #64C2C8;
+	color: #64C2C8 !important;
 	margin-top: 5rem;
 	padding: .5rem;
 	text-align: center;
@@ -1687,12 +1687,23 @@ a.externe {
 	color: #8C7971 !important;
 }
 
-.icon-catal-localisation {
+.icon-catal-localisation,
+.icon-catal-chevrons {
 	color: #8C7971 !important;
 }
 
 header .inside {
 	padding: 0 !important;
+}
+
+.main-title-with-link h1 {
+	font-size: 3.4rem !important;
+	line-height: 3.8rem !important;
+	color: #64C2C8 !important;
+	margin-top: 5rem !important;
+	text-align: center !important;
+	text-transform: inherit !important;
+	margin-bottom: 0 !important;
 }
 
 @font-face {
