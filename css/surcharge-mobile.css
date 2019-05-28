@@ -1710,6 +1710,10 @@ header .inside {
 	background: #64C2C8 !important;
 }
 
+.esf-as-list-filters-next-lvl:after {
+	color: #64C2C8 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
