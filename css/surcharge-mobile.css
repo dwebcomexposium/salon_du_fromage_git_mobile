@@ -1646,6 +1646,7 @@ a.externe {
 .catal-results-index-alpha li span {
 	background: #64C2C8 !important;
 	color: white !important;
+	border: none !important;
 }
 
 .catal-results-index-alpha li a {
