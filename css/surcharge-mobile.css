@@ -1724,6 +1724,11 @@ header .inside {
 	margin-top: 6rem !important;
 }
 
+.esf-sublvl-heading {
+	margin-top: 6rem !important;
+	background-color: #64C2C8 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
