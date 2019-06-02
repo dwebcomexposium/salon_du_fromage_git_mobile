@@ -1721,7 +1721,7 @@ header .inside {
 }
 
 .esf-panels .esf-as-list-filters {
-	margin-top: 6rem;
+	margin-top: 6rem !important;
 }
 
 @font-face {
