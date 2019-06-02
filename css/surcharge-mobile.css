@@ -194,6 +194,8 @@ a {
 	        justify-content: center;
 	margin-top: 2rem;
 	padding-bottom: 3rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
 }
 
 .article-title .inside .at-content .at-publication {
