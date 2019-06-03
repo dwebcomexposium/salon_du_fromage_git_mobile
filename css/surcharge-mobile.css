@@ -1774,6 +1774,14 @@ header .inside {
 	color: #64C2C8 !important;
 }
 
+.esf-as-activated-filters.esf-all-filters .esf-as-af-filters .esf-customer_target-filter {
+	color: #64C2C8 !important;
+}
+
+.esf-as-activated-filters.esf-all-filters .esf-as-af-filters .esf-customer_target-filter button i::before {
+	color: #64C2C8 !important;
+}
+
 .esf-as-af-text {
 	color: #64C2C8 !important;
 }
