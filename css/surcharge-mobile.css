@@ -1733,7 +1733,7 @@ header .inside {
 	background-color: #64C2C8 !important;
 }
 
-.catal-ex-item-content .catal-ex-item-group-title h3 {
+.catal-ex-item-content .catal-ex-item-group-title h3 a {
 	color: #64C2C8 !important;
 }
 
@@ -1743,6 +1743,14 @@ header .inside {
 }
 
 .catal-ed-activity-group h3 {
+	color: #64C2C8 !important;
+}
+
+.catal-ex-item-stand-more button {
+	color: #64C2C8 !important;
+}
+
+.catal-ex-item-stand-more-link.modalopen {
 	color: #64C2C8 !important;
 }
 
