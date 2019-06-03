@@ -1778,11 +1778,6 @@ header .inside {
 	color: #64C2C8 !important;
 }
 
-.checkbox-title::after {
-	background: #64C2C8 !important;
-	border: 1px solid #64C2C8 !important;
-}
-
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
