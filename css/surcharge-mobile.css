@@ -1778,6 +1778,14 @@ header .inside {
 	color: #64C2C8 !important;
 }
 
+.mod-catal .form-item-radio [type="radio"]:checked+.radio-title::after,
+.mod-catal .form-item-checkbox [type="radio"]:checked+.radio-title::after,
+.mod-catal .form-item-radio [type="checkbox"]:checked+.checkbox-title::after,
+.mod-catal .form-item-checkbox [type="checkbox"]:checked+.checkbox-title::after {
+	background: #64C2C8 !important;
+	border-color: 2px solid #64C2C8 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
