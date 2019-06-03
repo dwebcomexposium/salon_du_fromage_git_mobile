@@ -1733,6 +1733,19 @@ header .inside {
 	background-color: #64C2C8 !important;
 }
 
+.catal-ex-item-content .catal-ex-item-group-title h3 {
+	color: #64C2C8 !important;
+}
+
+.catal-ed-main-desc h2,
+.catal-ed-main-stand h2 {
+	color: #64C2C8 !important;
+}
+
+.catal-ed-activity-group h3 {
+	color: #64C2C8 !important;
+}
+
 @font-face {
 	font-family: 'cxpm-Klavika-bold';
 	src: url("../salon_du_fromage_2020_preprod_mobile/fonts/klavika/klavika-bold.otf");
